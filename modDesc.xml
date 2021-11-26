@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 
-<modDesc descVersion="60">
-  <author>Casual Game Addict</author>
+<modDesc descVersion="61">
+  <author>Casual Game Addict, RedDustGaming</author>
+  
+  <version>1.1.0.0</version>
 
   <title>
     <en>Super Strength</en>
@@ -11,9 +13,9 @@
     <en>
       <![CDATA[
         For lazy farmers. Make you super strong.
-        Alt + 1 => Enable Super Strength
+        Ctrl + Alt + 8 => Enable Super Strength
 
-        Alt + 0 => Back to normal wimpy farmer
+        Ctrl + Alt + 8 => Back to normal wimpy farmer
       ]]>
     </en>
   </description>
